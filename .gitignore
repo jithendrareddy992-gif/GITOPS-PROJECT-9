@@ -1,0 +1,6 @@
+jenkins_home/
+node_modules/
+.env
+__pycache__/
+
+
